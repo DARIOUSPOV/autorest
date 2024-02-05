@@ -52,7 +52,7 @@
     "rimraf": "^3.0.2",
     "safe-buffer": "5.2.0",
     "semver": "^5.5.1",
-    "yarn": "1.22.10"
+    "yarn": "1.22.13"
   },
   "devDependencies": {
     "@types/jest": "^26.0.20",
